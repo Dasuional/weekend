@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dangerous Gamers</title>
+</head>
+<link rel="stylesheet" href="weekend.css">
+<link href="https://fonts.googleapis.com/css2?family=Baloo+Bhai+2&family=Baloo+Da+2&family=Source+Sans+Pro&family=Ubuntu:wght@300&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Baloo+Bhai+2&family=Baloo+Da+2&family=Inconsolata:wght@300&family=Source+Sans+Pro&family=Ubuntu:wght@300&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@300&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@300&family=Merriweather:wght@700&display=swap" rel="stylesheet">
+<body>
+    <div class="container">
+        <img src="https://static.wixstatic.com/media/65c1aa_ef0c865878374d1096515515c5986b9d~mv2.png/v1/fill/w_109,h_198,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/IMG_0054_edited.png" alt="error loading image">
+        <div class="tag">
+            <h2>
+                INFINIA GLOBAL
+            </h2>
+        </div>
+        <div class="tag2">
+            <h3>
+                ENDLESS POSSIBILITIES
+            </h3>
+        </div>
+        <div class="mid">
+            <ul class="navbar">
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Services</a></li>
+                <li><a href="#">Core team</a></li>
+                <li><a href="#">Clients</a></li>
+                <li><a href="#"> Contacts</a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="container2">
+        <div class="item" id="item-1">
+            <h1 class="text1">
+                <strong>
+                        WHO
+                </strong>
+            </h1>
+            <h1 class="text2">
+                <strong>WE</strong>
+            </h1>
+            <h1 class="text3">
+                <strong>ARE</strong>
+            </h1>
+           <h2 class="text4">
+                 SOLUTION FOR SUCCESS
+           </h2>
+           <button class="btn" id="fuck">LEARN MORE</button>
+        </div>
+        <div class="container3">
+        <div class="item" id="item-2">
+            <img src="https://static.wixstatic.com/media/78662f2d91154979a66e2e42f5441790.jpg/v1/fill/w_613,h_625,fp_0.50_0.50,q_85,usm_0.66_1.00_0.01,enc_auto/78662f2d91154979a66e2e42f5441790.jpg" alt="error laoding image">
+        </div>
+    </div>
+    </div>
+    <div class="container4">
+        <div class="item3" id="item-3">
+                Explore
+        </div>
+        <div class="item3" id="item-4">
+                INFINIA GLOBAL
+        </div>
+    </div>
+    <div class="container5">
+        <div class="text5">
+            ENDLESS POSSIBILITIES WAITING FOR YOU
+    </div>
+    </div>
+    <div class="container6">   
+    </div>
+    <div class="container7">
+        <div class="item3" id="item-5">
+            Explore our
+         </div>
+        <div class="item3" id="item-6">
+            Services
+        </div>
+        <div class="item3" id="item-7">
+            DISCOVER OUR EXPERTISE
+        </div>
+    </div>
+    <div class="container8">
+        <div class="cont" id="cont-1">
+            <img src="https://static.wixstatic.com/media/0141bb700ad54cf2b0457ae50b0704c5.jpg/v1/fill/w_703,h_688,fp_0.36_0.25,q_85,usm_0.66_1.00_0.01,enc_auto/0141bb700ad54cf2b0457ae50b0704c5.jpg" alt="error loading image">
+        </div>
+        <div class="cont" id="cont-2">
+            <div class="item4" id="item-8">BUSINESS</div>
+            <div class="item4" id="item-9">EXCELLENCE</div>
+            <div class="item4" id="item-10">REDEFINING</div>
+        </div>
+    </div>
+    <div class="container9">
+        <div class="chain" id="chain-1">
+             <div class="item5" id="item-11">SUCCESS</div>
+             <div class="item5" id="item-12">MADE</div>
+             <div class="item5" id="item-13">EASY</div>
+             <div class="explore" id="explore">
+                <button class="explore" id="explore">
+                        EXPLORE <em></em> >
+                </button>
+            </div>
+        </div>
+        <div class="chain" id="chain-2">
+            <img src="https://static.wixstatic.com/media/5e960dc55c064a92aeb2aaa31d57cbcb.jpg/v1/fill/w_703,h_716,fp_0.71_0.22,q_85,usm_0.66_1.00_0.01,enc_auto/5e960dc55c064a92aeb2aaa31d57cbcb.jpg" alt="error loading image">
+        </div>
+    </div>
+    <div class="container10">
+            <div class="intro" id="intro-1">
+                WHAT ARE YOU
+            </div>
+            <div class="intro" id="intro-2">
+                WAITING FOR ?
+            </div>        
+    </div>
+    <div class="container11">
+        <div class="shrink" id="shrink-1">
+            <div class="fuck" id="shut-1">CONTACT</div>
+            <div class="fuck" id="shut-2">US</div>
+            <div class="fuck" id="shut-3">inquiry@infinaglobal.com</div>
+            <div class="fuck" id="shut-4">+91 77000 49542</div>
+        </div>
+        <div class="shrink" id="shrink-2">
+            <img src="https://static.wixstatic.com/media/78662f2d91154979a66e2e42f5441790.jpg/v1/fill/w_613,h_625,fp_0.50_0.50,q_85,usm_0.66_1.00_0.01,enc_auto/78662f2d91154979a66e2e42f5441790.jpg" alt="error loading image">
+        </div>
+    </div>
+    <div class="container12">
+        <div class="end" id="end-1">SUBSCRIBE</div>
+        <div class="end" id="end-2">FORM</div>
+        <div class="end" id="end-3"></div>
+        <div class="end" id="end-4"></div>
+        <div class="form">
+            <form action="" class="form-contol">
+                <input type="text" class="email" placeholder="enter your email address"><br>
+                <input type="submit" class="submit" value="submit">
+            </form>
+        </div>
+    </div>
+</body>
+</html>
